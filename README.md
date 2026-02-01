@@ -4,7 +4,7 @@
 
 *the sickness of love જ⁀ ♡ 💉*
 
- <a href="https://github.com/sadser0">main</a> 
+<a href="https://serochan.atabook.org/">ata</a>✧<a href="https://github.com/sadser0">main</a>  
 
  <a href="https://www.last.fm/user/sadsero"><img src="https://lastfm-recently-played.vercel.app/api?user=sadsero&footer_style=compact_stats&count=1&width=400&loved=true&header_style=none&bg_color=151B1C" alt="what"></a>
 
